@@ -1,0 +1,10 @@
+@media screen and (max-width: 1167px) {
+  .nav-links li {
+    margin: 10px 40px;
+  }
+}
+@media screen and (max-width: 1069px) {
+  .nav-links li {
+    margin: 10px 20px;
+  }
+}
